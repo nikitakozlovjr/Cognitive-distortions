@@ -1,18 +1,25 @@
-body {
-    font-family: 'Open Sans';
-    font-size: 16px;
-    line-height: 1.6em;
-    color: #2A2626
-};
+@font-face {
+  font-weight: 400;
+  font-family: OpenSans;
+  src: url("../fonts/OpenSans-Regular.ttf");
+}
 
-h1, h2, h3 {
-    font-family: 'Neucha';
-    line-height: 1.2em;
-};
+@font-face {
+  font-weight: 700;
+  font-family: OpenSans;
+  src: url("../fonts/OpenSans-Bold.ttf");
+}
 
-header, main, footer {
-    text-align: center;
-    max-width: 1110px;
-    padding-top: 100px;
-    padding-bottom: 100px
-};
+@font-face {
+  font-weight: 300;
+  font-family: OpenSans;
+  src: url("../fonts/OpenSans-Light.ttf");
+}
+
+@font-face {
+  font-weight: 400;
+  font-family: Neucha;
+  src: url("../fonts/Neucha-Regular.ttf");
+}
+
+
