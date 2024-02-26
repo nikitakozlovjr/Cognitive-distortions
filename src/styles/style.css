@@ -1,3 +1,15 @@
+:root {
+  --white: #fff;
+  --translucent-white: #d7ccc0;
+  --light: #f5f4f0;
+  --main: #FE8A02;
+  --mainDark: #42413c;
+  --dark: #2a2626;
+  --translucent-dark: #908d8b;
+  --brown: #b09a81;
+  --blue: #1085c5;
+}
+
 @font-face {
   font-weight: 400;
   font-family: OpenSans;
@@ -21,5 +33,3 @@
   font-family: Neucha;
   src: url("../fonts/Neucha-Regular.ttf");
 }
-
-
